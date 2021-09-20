@@ -6,7 +6,7 @@ Reproduction of the DeepDB experiments and setups and further optimisation of th
 
 We further explore this work by utilising indexes and measuring their effect in the overall performance of DeepDB.
 
-To reproduce the experiments, you will have to first install Postgres Database and import the data. Secondly, a brave heart full of understanding to uncomment the appropriate lines in an otherwise very well commented code.
+To reproduce the experiments, you will have to first install Postgres Database and import the data. Secondly, a brave heart full of understanding to uncomment the appropriate lines in an otherwise very well commented code. For every step, please uncomment the operator and the args assignment to move on with the experiment.
 
 Datasets that were explored for this project:
 
