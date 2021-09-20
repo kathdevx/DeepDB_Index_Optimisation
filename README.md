@@ -8,10 +8,6 @@ We further explore this work by utilising indexes and measuring their effect in 
 
 To reproduce the experiments, you will have to first install Postgres Database and import the data. Secondly, a brave heart full of understanding to uncomment the appropriate lines in an otherwise very well commented code. For every step, please uncomment the operator and the args assignment to move on with the experiment.
 
-Datasets that were explored for this project:
-
-1. IMDB Dataset - Download: <http://homepages.cwi.nl/~boncz/job/imdb.tgz>)
-2. SSB dataset (Scale Factor=100) - Download: <https://github.com/eyalroz/ssb-dbgen>
 
 Datasets that were explored for this project:
 
