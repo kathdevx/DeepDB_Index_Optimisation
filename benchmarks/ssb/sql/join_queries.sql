@@ -1,0 +1,3 @@
+select sum(l.lo_extendedprice) from lineorder l inner join dwdate d on l.lo_orderdate = d.d_datekey where d.d_year = 1993 and l.lo_discount>=1 and l.lo_discount<=3 and l.lo_quantity < 25;
+select sum(l.lo_extendedprice*l.lo_discount) from lineorder l inner join dwdate d on l.lo_orderdate = d.d_datekey where d.d_year = 1993 and l.lo_discount>=1 and l.lo_discount<=3 and l.lo_quantity < 25;
+select sum(l.lo_discount) from lineorder l left outer join dwdate d on l.lo_orderdate = d.d_datekey where d.d_year = 1993 and l.lo_discount>=1 and l.lo_discount<=3 and l.lo_quantity < 25;
