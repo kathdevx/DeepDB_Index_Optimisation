@@ -8,6 +8,7 @@ We further explore this work by utilising indexes and measuring their effect in 
 
 To reproduce the experiments, you will have to first install Postgres Database and import the data. Secondly, a brave heart full of understanding to uncomment the appropriate lines in an otherwise very well commented code. The main code is in the maqp.py file. For every step, please uncomment the operator and the args assignment to move on with the experiment.
 
+The experiments were run on a laptop, i7 cpu with 8 GB of RAM
 
 Datasets that were explored for this project:
 
