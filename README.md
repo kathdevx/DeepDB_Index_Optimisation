@@ -6,7 +6,9 @@ Reproduction of the DeepDB experiments and setups and further optimisation of th
 
 We further explore this work by utilising indexes and measuring their effect in the overall performance of DeepDB.
 
-To reproduce the experiments, you will have to first install Postgres Database and import the data. Secondly, a brave heart full of understanding to uncomment the appropriate lines in an otherwise very well commented code. The main code is in the maqp.py file. For every step, please uncomment the operator and the args assignment to move on with the experiment.
+To reproduce the experiments, you will have to first install Postgres Database and import the data. Secondly, a brave heart full of understanding to uncomment the appropriate lines in an otherwise very well commented code. The main code is in the maqp.py file. For every step, please uncomment the operator and the args assignment to move on with the experiment. 
+
+**Demo Script for user friendly experiment reproduction will be posted soon**
 
 The experiments were run on a laptop, i7 cpu with 8 GB of RAM
 
