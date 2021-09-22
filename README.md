@@ -28,8 +28,7 @@ Experiments:
 
   2. Experiment 2 - Reproduction
 
-    1. Drop other indexes
-    2. Build RDC Ensemble
+    1. Build RDC Ensemble
     3. Evaluate Cardinalities
 
   3. Experiment 3 - RDC Optimisation
