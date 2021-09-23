@@ -65,9 +65,9 @@ Experiments:
   2. Experiment 6 - Reproduction
 
     1. Build RDC Ensemble
-    2. Calculate AQP ground truth queries
+    2. Calculate ground truth for AQP
     3. Evaluate AQP queries of model
-    4. Calculate Confidence Intervals
+    4. Calculate ground truth for Confidence Intervals
     5. Evaluate Confidence Intervals of model
 
   3. Experiment 7 - RDC Optimisation
@@ -76,8 +76,10 @@ Experiments:
     2. Build RDC indexes
     3. Generate RDC Ensemble
     4. Generate Single Ensemble
-    5. Evaluate AQP queries of models
-    6. Evaluate Confidence Intervals of models
+    5. Calculate ground truth for AQP
+    6. Calculate ground truth for Confidence Intervals
+    7. Evaluate AQP queries of models
+    8. Evaluate Confidence Intervals of models
 
   4. Experiment 7 - Query-based Optimisation
 
@@ -85,8 +87,10 @@ Experiments:
     2. Build Query-based indexes
     3. Generate RDC Ensemble
     4. Generate Single Ensemble
-    5. Evaluate AQP queries of models
-    6. Evaluate Confidence Intervals of models
+    5. Calculate ground truth for AQP
+    6. Calculate ground truth for Confidence Intervals
+    7. Evaluate AQP queries of models
+    8. Evaluate Confidence Intervals of models
 
   5. Experiment 8 - Auto Optimisation
 
@@ -94,5 +98,7 @@ Experiments:
     2. Build auto indexes
     3. Generate RDC Ensemble
     4. Generate Single Ensemble
-    5. Evaluate AQP queries of models
-    6. Evaluate Confidence Intervals of models
+    5. Calculate ground truth for AQP
+    6. Calculate ground truth for Confidence Intervals
+    7. Evaluate AQP queries of models
+    8. Evaluate Confidence Intervals of models
