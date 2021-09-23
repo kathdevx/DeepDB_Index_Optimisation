@@ -45,7 +45,7 @@ Experiments:
     3. Generate RDC Ensemble
     4. Evaluate Cardinalities
 
-  5. Experiment 4 - Auto Optimisation
+  5. Experiment 5 - Auto Optimisation
 
     1. Drop other indexes
     2. Build auto indexes
@@ -54,7 +54,7 @@ Experiments:
 
 2. SSB Dataset
 
-  1. Experiment 5 - Reproduction
+  1. Experiment 6 - Reproduction
 
     1. Build Single Ensemble (naive way)
     2. Calculate AQP ground truth queries
@@ -62,7 +62,7 @@ Experiments:
     4. Calculate Confidence Intervals
     5. Evaluate Confidence Intervals of model
 
-  2. Experiment 6 - Reproduction
+  2. Experiment 7 - Reproduction
 
     1. Build RDC Ensemble
     2. Calculate ground truth for AQP
@@ -70,7 +70,7 @@ Experiments:
     4. Calculate ground truth for Confidence Intervals
     5. Evaluate Confidence Intervals of model
 
-  3. Experiment 7 - RDC Optimisation
+  3. Experiment 8 - RDC Optimisation
 
     1. Drop other indexes
     2. Build RDC indexes
@@ -79,7 +79,7 @@ Experiments:
     5. Evaluate AQP queries of models
     6. Evaluate Confidence Intervals of models
 
-  4. Experiment 7 - Query-based Optimisation
+  4. Experiment 9 - Query-based Optimisation
 
     1. Drop other indexes
     2. Build Query-based indexes
@@ -88,7 +88,7 @@ Experiments:
     5. Evaluate AQP queries of models
     6. Evaluate Confidence Intervals of models
 
-  5. Experiment 8 - Auto Optimisation
+  5. Experiment 10 - Auto Optimisation
 
     1. Drop other indexes
     2. Build auto indexes
