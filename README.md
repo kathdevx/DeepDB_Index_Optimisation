@@ -11,7 +11,7 @@ To reproduce the experiments, you will have to first install Postgres Database a
 **Use demo_script.py for user friendly experiment reproduction** <br>
 ``
 python3 demo_script.py --run_experiment n
-``
+`` <br>
 where n is the number of the experiment you want to run.
 
 The experiments were run on a laptop, i7 cpu with 8 GB of RAM
