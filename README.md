@@ -8,7 +8,7 @@ We further explore this work by utilising indexes and measuring their effect in 
 
 To reproduce the experiments, you will have to first install Postgres Database and import the data. Secondly, a brave heart full of understanding to uncomment the appropriate lines in an otherwise very well commented code. The main code is in the maqp.py file. For every step, please uncomment the operator and the args assignment to move on with the experiment. 
 
-**Use demo_script.py for user friendly experiment reproduction**
+**Use demo_script.py for user friendly experiment reproduction** <br>
 ``
 python3 demo_script.py --run_experiment n
 ``
