@@ -6,7 +6,7 @@ Reproduction of the DeepDB experiments and setups and further optimisation of th
 
 We further explore this work by utilising indexes and measuring their effect in the overall performance of DeepDB.
 
-To reproduce the experiments, you will have to first install Postgres Database and import the data. Secondly, a brave heart full of understanding to uncomment the appropriate lines in an otherwise very well commented code. The main code is in the maqp.py file. For every step, please uncomment the operator and the args assignment to move on with the experiment. 
+To reproduce the experiments, you will have to first install Postgres Database and import the data. Make sure the file paths are correct when running the code. There are many files used in this code, very easy to get lost. For my experiments, I named the folder for the IMDB dataset fixed_imdb_data since some refining had to be made for them to be inserted in the database, and for the SSB dataset, I named the folder ssb_data.
 
 **Use demo_script.py for user friendly experiment reproduction** <br>
 ``
