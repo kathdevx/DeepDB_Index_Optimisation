@@ -23,7 +23,7 @@ Datasets that were explored for this project:
 
 Experiments:
 
-1. IMDB Dataset
+<li> IMDB Dataset </li>
 
   1. Experiment 1 - Reproduction
 
@@ -56,7 +56,7 @@ Experiments:
     3. Generate RDC Ensemble
     4. Evaluate Cardinalities
 
-2. SSB Dataset
+<li> SSB Dataset </li>
 
   1. Experiment 6 - Reproduction
 
